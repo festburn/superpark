@@ -1,0 +1,8 @@
+{
+  "name": "superpark",
+  "app_id": "92de551f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
